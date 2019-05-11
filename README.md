@@ -10,5 +10,6 @@ fungsi JSON pada REST API sperti pada API lainnya yaitu sebagai bahasa universal
 Tools : Visual Studio Code, Laragon(Web), DevC++, Browser Mozila Firefox
 Note : No 6 Menggunakan framework Laravel, file database : databasenya.sql
 
-Screeshot no 6 ![Screenshot (14)](https://user-images.githubusercontent.com/48172919/57569231-19119600-741c-11e9-8f91-9a3401cdc39d.png)
+Screeshot no 6 ![Screenshot (16)](https://user-images.githubusercontent.com/48172919/57569282-c97f9a00-741c-11e9-9663-c8a62069dd6b.png)
+![Screenshot (14)](https://user-images.githubusercontent.com/48172919/57569231-19119600-741c-11e9-8f91-9a3401cdc39d.png)
 ![Screenshot (15)](https://user-images.githubusercontent.com/48172919/57569232-19aa2c80-741c-11e9-87c1-fff226493a2d.png)
