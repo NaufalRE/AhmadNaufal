@@ -22,7 +22,17 @@ void cetak_gambar(){
 	}
 }
 
+void cetak_something(int a, int b){
+	for(int x = 0; x < a; x++){
+		for(int y = 0; y < b; y++){
+			cout << "=";
+		}
+		cout << "\n";
+	}
+}
+
 int main(){
 	cetak_gambar();
+	cetak_something(6, 3);
 }
 
